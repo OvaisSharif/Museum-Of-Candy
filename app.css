@@ -10,7 +10,7 @@ body {
 }
 
 .blurb p {
-    color: #8a8184;
+    color:#EA1C2c ;
     font-weight: 100;
     font-size: 1.125rem;
     line-height: 2;
@@ -49,9 +49,18 @@ body {
 }
 
 .navbar.scrolled {
-    background: rgb(222,192,222);
+    background: rgb(184, 47, 184);
     transition: background 500ms;
 }
+
+.#Candies {
+    color: #EA1C2C;
+}
+
+#Jumbo {
+    background-image: url("https://images.unsplash.com/photo-1472452049192-db15def0be25?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTYyfHxjYW5kaWVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-position: center;
+   }
 
 @media (max-width: 1200px) {
     #headingGroup h1 {
